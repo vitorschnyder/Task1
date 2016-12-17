@@ -1,1 +1,7 @@
-
+<resources>
+<!-- By default, most apps for Lollipop and later should use
+some variant of android:Theme.Material.NoActionBar -->
+<style name="AppTheme"
+parent="android:Theme.Material.NoActionBar">
+</style>
+</resources>
